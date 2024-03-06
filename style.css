@@ -1,0 +1,195 @@
+/* Remove bullet points from all unordered lists */
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+
+}
+
+header {
+  display:flex;
+  justify-content: space-between;
+}
+
+
+
+header div img{
+    height:90px;
+    width:95px;
+    margin:1rem;
+}
+header div img:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+
+
+ .one button{
+    height:42px;
+    width:87px;
+    padding:-0.3rem;
+    margin-top:2.5rem;
+    border-radius:14px;
+    border-style:hidden;
+  
+ }
+
+ .one button:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    
+ }
+
+ .one img {
+    height: 25px;
+    width: 28px;
+    margin:2rem;
+    margin-left:0.9rem;
+    margin-bottom: -0.5rem;
+    margin-top:2rem;
+    color:#e9f5f9;  
+ }
+
+ .one img:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    
+ }
+ 
+ main ul img{
+    height:68px;
+    width:70px;
+    margin-top: 1.9rem;
+
+ }
+ main ul img:hover{
+    transform: scale(1.2);
+ }
+
+ .list {
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-left:18rem;
+    margin-right: 18rem;
+ }
+
+ .list:hover{
+    cursor: pointer;
+    
+    
+ }
+
+.Images {
+    margin-left:0.7rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 112%;
+    cursor:pointer;
+
+}
+
+.Video{
+    margin-left:0.9rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 112%;
+    cursor:pointer;
+}
+
+.Kingdom {
+    margin-left:0.9rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 112%;
+}
+
+.Translate {
+    margin-left: 0.4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 109%;
+}
+
+.Weather {
+    margin-left: 0.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 112%;
+}
+
+.Mail {
+    margin-left: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 112%;
+}
+
+.Games {
+    margin-left: 0.7rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 112%;
+}
+
+.search {
+    margin-top: 4rem;
+    margin-left: 18.5rem;
+
+    
+}
+
+section input{
+    outline: none;
+    outline-color: aliceblue;
+    border-style: none;
+    width:860px;
+    height:50px;
+    border-radius: 14px;
+    border-color: #ffcc01;
+    border-style: solid;
+    color:rgb(180, 175, 175);
+    
+    
+    
+}
+input::placeholder{
+    padding:20px;
+    font-size: 150%;
+}
+
+
+section img{
+    height: 40px;
+    width:40px;
+    margin-top: 1rem;
+    margin-left: 20rem;    
+}
+
+section img:hover{
+    cursor: pointer;
+    
+}
+
+section p{
+    margin-left:23rem;
+    margin-top: -2rem;
+    font-size: 110%;
+    
+}
+ section p:hover{
+    cursor: pointer;
+    
+ }
+
+.chennai{
+    margin-left: 44rem;
+    margin-top: 0.7rem;
+    color: #acacac;  
+}
+
+.chennai:hover{
+    cursor: pointer;
+    
+}
+
+
+
+ 
+
+
+
